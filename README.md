@@ -44,10 +44,6 @@ All features were concatenated into a single vector for each image.
 
 ---
 
-## 📈 Results
-
-Here are a few screenshots of the output:
-
 ### 🔹 Screenshot
-![Sample Image](Screenshot (165).png)
+![Sample Image](https://github.com/AI-ML-dev4/Plant_disease_classification/blob/main/Screenshot%20(165).png)
 ---

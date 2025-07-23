@@ -1,0 +1,1 @@
+download full dataset(imagesfolder, train.csv, test.csv) from this link:- https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data
