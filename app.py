@@ -1,3 +1,5 @@
+# This is main file to run the app
+
 import streamlit as st
 import cv2
 import numpy as np
